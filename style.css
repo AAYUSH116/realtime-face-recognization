@@ -1,0 +1,20 @@
+ body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+ }
+
+#head2{
+    color: darkred;
+    background-color: darkturquoise;
+    margin-left: 530px;
+    margin-right: 530px;
+}
+
+canvas{
+    border:5px dashed wheat;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px navy;
+    margin-top:150px;  
+}
+
+    
